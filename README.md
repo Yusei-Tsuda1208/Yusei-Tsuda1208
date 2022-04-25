@@ -10,6 +10,7 @@
 - HTML
 - CSS
 - jQuery  
+- Python?
 
 ### <span style="color: #009bc6; ">***I still can't do anything.*** </span> 　(´;ω;｀)  
 ### <span style="color: #009bc6; ">***But I'll do my best!!***</span>　 ٩( 'ω' )و 
